@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ahmed Shams</h1>
 <h3 align="center">I'm a full stack developer</h3>
 
+<h1> Hi <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<p align='center'>
+
+</p>
+<div size='20px'> Hi! My name is Ahmed Shams Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahhmedshams&label=Profile%20views&color=0e75b6&style=flat" alt="ahhmedshams" /> </p>
 
 

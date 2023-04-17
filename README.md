@@ -4,6 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahhmedshams&label=Profile%20views&color=0e75b6&style=flat" alt="ahhmedshams" /> </p>
 
 
+**Currently I am finishing ...**
+
+ <div>
+    <img width="170" align='left' src="https://www.iti.gov.eg/assets/images/iti-logo.png" >
+    The <strong>9-Month Program</strong> at Information Technology Institute. where I have been performing and developing projects using different web development technologies like the MEAN tech stack and .Net Famework.
+  </div>
+
+  ***
 
 <p align="left"> <a href="https://twitter.com/ahhmedshams" target="blank"><img src="https://img.shields.io/twitter/follow/ahhmedshams?logo=twitter&style=for-the-badge" alt="ahhmedshams" /></a> </p>
 

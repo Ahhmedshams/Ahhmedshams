@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Shams</h1>
-<h3 align="center">I'm a full stack developer</h3>
+<h3 align="center">I'm a full stack developer </h3>
 
 
 
@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **Ahmedtaha757@gmail.com**
 
-- 📄 Know about my experiences [..](..)
+- 📄 Know about my experiences [..](...)
 
 
 <h3 align="left">Connect with me:</h3>

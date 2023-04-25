@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on **E-commerce**
 
-- 🌱 I’m currently learning **ASP.NET API**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 📫 How to reach me **Ahmedtaha757@gmail.com**
 

@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on **Reservation System**
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning  **ASP.NET**
 
 - 📫 How to reach me **Ahmedtaha757@gmail.com**
 
@@ -47,7 +47,7 @@
 <a href="https://www.leetcode.com/ahhmedshams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahhmedshams" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages & Tools:</h3>
 
   
 <p align="left"> 

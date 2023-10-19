@@ -4,10 +4,6 @@
 
 
 
-- 🔭 I’m currently working on **Reservation System**
-
-- 🌱 I’m currently learning  **ASP.NET**
-
 - 📫 How to reach me **Ahmedtaha757@gmail.com**
 
 - 📄 Know about my experiences [..](...)

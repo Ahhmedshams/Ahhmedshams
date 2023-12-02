@@ -1,13 +1,24 @@
-<h1 align="center">Hi 👋, I'm Ahmed Shams</h1>
-<h3 align="center">I'm a full stack developer </h3>
+### 👨‍💻 Adaptable Full-Stack Developer | Backend at Heart, Frontend by Necessity
 
-
-
+Howdy! I'm [Ahmed Shams], a seasoned backend developer who finds joy in architecting scalable systems and optimizing server-side performance. Currently donning the full-stack hat for my day job, I navigate the intricate backend landscapes to deliver robust solutions.
 
 - 📫 How to reach me **Ahmedtaha757@gmail.com**
 
-- 📄 Know about my experiences [..](...)
+#### 💻 Tech Arsenal:
 
+**Backend Wizardry:** ASP.NET, C#
+
+**Database Mastery:** SQL Server, Oracle
+
+**Frontend Adventures:** Angular
+
+
+#### 💼 Day-to-Day:
+
+- 🚀 Architecting scalable backend solutions with ASP.NET and C#
+- 🛠️ Database optimization for SQL Server environments
+- 🧩 Crafting dynamic Angular components to empower frontend 
+- 🌐 Exploring the complexities of distributed systems to enhance scalability
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

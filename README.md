@@ -1,8 +1,7 @@
 ### 👨‍💻 Adaptable Full-Stack Developer | Backend at Heart, Frontend by Necessity
 
-Howdy! I'm [Ahmed Shams], a seasoned backend developer who finds joy in architecting scalable systems and optimizing server-side performance. Currently donning the full-stack hat for my day job, I navigate the intricate backend landscapes to deliver robust solutions.
+Howdy! I'm [**Ahmed Shams**], a seasoned backend developer who finds joy in architecting scalable systems and optimizing server-side performance. Currently donning the full-stack hat for my day job, I navigate the intricate backend landscapes to deliver robust solutions.
 
-- 📫 How to reach me **Ahmedtaha757@gmail.com**
 
 #### 💻 Tech Arsenal:
 
@@ -26,6 +25,7 @@ Howdy! I'm [Ahmed Shams], a seasoned backend developer who finds joy in architec
 <a href="https://linkedin.com/in/ahhmedshams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahhmedshams" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahhmedshams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahhmedshams" height="30" width="40" /></a>
 </p>
+- 📫 How to reach me **Ahmedtaha757@gmail.com**
 
 <h3 align="left">Languages & Tools:</h3>
 

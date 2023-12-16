@@ -20,7 +20,6 @@ Seasoned in architecting scalable systems and optimizing server-side performance
 - 🧩 Crafting dynamic Angular components to empower frontend 
 - 🌐 Exploring the complexities of distributed systems to enhance scalability
 
-
 #### 📫 How to reach me:
 - Email: [Ahmedtaha757@gmail.com](mailto:Ahmedtaha757@gmail.com)
 

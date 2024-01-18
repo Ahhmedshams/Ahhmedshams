@@ -6,7 +6,7 @@ Seasoned in architecting scalable systems and optimizing server-side performance
 
 #### 💻 Tech Arsenal:
 
-**Backend Wizardry:** ASP.NET, C#
+**Backend Wizardry:** ASP.NET Core, C#
 
 **Database Mastery:** SQL Server, Oracle
 
